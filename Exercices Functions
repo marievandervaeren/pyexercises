@@ -1,1 +1,27 @@
+def count_items(items):
+    # Count the items in the list
+    total = len(items)
+    return total
+
+
+# My list from exercise 4.0 (example to replace)
+my_list = ["pen", "book", "laptop"]
+
+# Test 1
+print(count_items(my_list))
+
+# Test 2
+print(count_items(["pen", "book"]))
+
+# Test 3
+print(count_items(["laptop"]))
+
+# Check it yourself: empty list
+print(count_items([]))
+
+# The empty list returns 0.
+# This is acceptable because an empty list has no items.
+
+
+
 
