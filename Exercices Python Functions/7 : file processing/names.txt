@@ -5,6 +5,6 @@ grace hopper
 katherine JOHNSON
 margaret hamilton
   linus torvalds
-GUIDO van
+GUIDO van rossum
 
 barbara LISKOV

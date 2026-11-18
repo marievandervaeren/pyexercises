@@ -5,4 +5,4 @@ Barbara Liskov
 Ada Lovelace
 Linus Torvalds
 Alan Turing
-Guido van
+Guido van Rossum
